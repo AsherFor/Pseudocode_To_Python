@@ -41,12 +41,3 @@ if FOUND == True:
     print(TARGET, "FOUND AT ARRAY INDEX", ANSWER)
 else:
     print(TARGET, " was not found")
-
-
-
-
-
-
-
-
-
